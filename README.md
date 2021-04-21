@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+# Tranquilpeak
 
-You can use the [editor on GitHub](https://github.com/suozhiyuan/suozhiyuan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Build Status](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/workflows/Node%20CI/badge.svg?branch=master)](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/actions)
+[![gitter chat](https://img.shields.io/gitter/room/LouisBarranqueiro/hexo-theme-tranquilpeak.svg?style=flat-square)](https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A gorgeous responsive theme for Hexo blog framework
 
-### Markdown
+[![Tranquilpeak](http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v2.jpg)](http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Summary
 
-```markdown
-Syntax highlighted code block
+- [Features](#features)
+- [Quick start](#quick-start)
+- [Demo](#demo)
+- [Contributing](#contributing)
+- [License](#license)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Features
 
-1. Numbered
-2. List
+**General features :**
 
-**Bold** and _Italic_ and `Code` text
+- Fully responsive
+- Optimized for tablets & mobiles
+- Customizable sidebar menu
+- Pages to filter tags, categories and archives
+- Background cover image
+- Beautiful about page
+- Support Open Graph protocol
+- Support internationalization (i18n)
+- Easily customizable (fonts, colors, layout elements, code coloration, etc...)
 
-[Link](url) and ![Image](src)
-```
+**Posts features :**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Thumbnail image
+- Cover image
+- Responsive videos & images
+- Sharing options
+- Navigation menu
+- GitHub theme for code highlighting (customizable)
+- Image gallery
+- Tags for images (FancyBox, wide images, tabbed code blocks, highlighted text, alerts)
+- Table of contents
 
-### Jekyll Themes
+**Integrated services :**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suozhiyuan/suozhiyuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Disqus
+- Duoshuo
+- Google analytics
+- Baidu analytics
+- Gravatar
+- Algolia
+- Facebook Insights
+- Gitment
+- Gitalk
 
-### Support or Contact
+## Quick start
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Download the latest [version](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/archive/master.zip)
+2. Rename the folder in `tranquilpeak` and place it in the `themes` folder of your Hexo blog
+3. Modify the theme in Hexo configuration file (`_config.yml`) by setting `theme` variable to `tranquilpeak`
+4. Go to the `tranquilpeak` folder and run `npm install && npm run prod`
+5. Read [documentation](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/DOCUMENTATION.md) to configure the theme.
+
+## Demo
+
+Check out [Tranquilpeak theme demo](https://louisbarranqueiro.github.io/hexo-theme-tranquilpeak)
+
+## Contributing
+
+All kinds of contributions (enhancements, features, documentation & code improvements, bugs reporting) are welcome.
+
+Read [guidelines for contributing](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/.github/CONTRIBUTING.md) for more information.
+
+## License
+
+hexo-theme-tranquilpeak is released under the terms of the [GNU General Public License v3.0](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/LICENSE)
